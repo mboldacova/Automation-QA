@@ -2,7 +2,7 @@
 
 ## Задание 2. Создайте переменную
 
-1. [Link to lesson_1_task_1.py](https://github.com/mboldacova/your_repository/blob/main/lesson_1_task_1.py)
+1. [Link to lesson_1_task_1.py](https://github.com/mboldacova/https://github.com/mboldacova/Automation-QA/blob/main/lesson_1_task_1.py)
 2. Откройте его в VS Code.
 3. В файле создайте переменную `my_name`.
 4. Присвойте переменной значение — ваше имя. Помните, что строковые значения указываются в кавычках.
